@@ -1,0 +1,15 @@
+#scroll-box {
+    overflow: scroll;
+    height: 100px;
+    width: 100px;
+    float: left;
+}
+
+#scroll-box p {
+    height: 200px;
+    width: 200px;
+}
+
+#output {
+    text-align: center;
+}
